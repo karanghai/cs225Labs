@@ -1,0 +1,59 @@
+Monad Autograder
+Testing lab_trees at 2013-03-11 00:39:28
+
+"I don't try to be a threat to Microsoft, mainly because I don't really see them as competition. Especially not Windows -- the goals of Linux and Windows are simply so different." ~ Linus Torvalds
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_isOrdered  . [40 pts] - FAILED: unit_tests.cpp:49: Assertion (tree2.isOrdered() == true) failed
+test_mirror . . . [30 pts] - passed
+test_printPaths . [30 pts] - passed
+test_sumDistances [25 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 85
+
+
+
+Detailed test output...
+================================================================
+----------------------------------------------------------------
+test_isOrdered [40 points]
+Result: FAILED: unit_tests.cpp:49: Assertion (tree2.isOrdered() == true) failed
+Took 0ms (1000ms timeout)
+Output:
+----------------------------------------------------------------
+                                                ______________ 2 ______________                                                  
+                                 ______________/                               \______________                                   
+                        ______ 7                                                        ______ 1                                 
+                 ______/                                                         ______/                                         
+            __ 8                                                            __ 9 __                                              
+         __/                                                             __/       \__                                           
+       5                                                               6               0                                         
+                                                                                     /                                           
+                                                                                   3                                             
+                                                                                    \                                            
+                                                                                     4                                           
+                        ______ 6 ______                          
+                 ______/               \______                   
+            __ 3 __                         __ 8 __              
+         __/       \__                   __/       \__           
+       2               4               7               9         
+     /                   \                                       
+   1                       5                                     
+  /                                                              
+ 0                                                               
+
+
+----------------------------------------------------------------
+Total score...
+================================================================
+TOTAL SCORE: 85
+

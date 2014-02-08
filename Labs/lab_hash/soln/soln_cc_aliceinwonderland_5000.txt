@@ -1,0 +1,12 @@
+Finding chars in data/aliceinwonderland.txt with frequency >= 5000...
+a 9800
+d 5466
+e 15390
+h 7888
+i 8632
+l 5210
+n 8051
+o 9478
+r 6609
+s 7266
+t 12197

@@ -1,0 +1,15 @@
+Finding words in data/metamorphoses.txt with frequency >= 1000...
+a 2246
+was 1706
+by 1185
+he 1241
+in 1989
+is 1306
+of 5753
+with 1456
+to 3078
+and 4739
+her 1500
+his 1572
+that 1548
+the 10473

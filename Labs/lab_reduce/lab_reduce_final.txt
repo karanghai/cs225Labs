@@ -1,0 +1,23 @@
+Monad Autograder
+Testing lab_reduce at 2013-04-08 07:08:16
+
+"There are 10 types of people in the world. Those who understand binary, those who don't, and those who didn't expect this joke to be in base 3." ~ Anonymous
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+findmin_minimum_correctness . . . . [20 pts] - passed
+findmin_minimum_parallel_concurrent [15 pts] - passed
+num_selected_correctness  . . . . . [15 pts] - passed
+num_selected_concurrency  . . . . . [10 pts] - passed
+frequency_parallel_correctness  . . [40 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

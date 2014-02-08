@@ -1,0 +1,24 @@
+Monad Autograder
+Testing lab_parallel at 2013-02-18 17:05:16
+
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." ~ Bill Gates
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+testConcurrency_flip . . . . . . . . . [26 pts] - passed
+testConcurrency_remove . . . . . . . . [26 pts] - passed
+testCorrectnessFlip_03 . . . . . . . . [12 pts] - passed
+testCorrectnessFlip_04 . . . . . . . . [12 pts] - passed
+testCorrectnessRemoveRedComponent_03 . [12 pts] - passed
+testCorrectnessRemoveGreenComponent_04 [12 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

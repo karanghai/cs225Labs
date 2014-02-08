@@ -1,0 +1,14 @@
+Finding words in data/war-and-peace.txt with frequency >= 5000...
+a 10514
+was 7326
+he 9808
+in 8926
+it 5179
+of 14988
+with 5694
+to 16707
+and 22143
+had 5354
+his 7965
+that 7805
+the 34558

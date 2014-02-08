@@ -1,0 +1,10 @@
+Finding chars in data/art_of_war.txt with frequency >= 10000...
+a 19541
+e 30428
+h 14689
+i 18648
+n 18759
+o 18437
+r 14477
+s 16969
+t 24036

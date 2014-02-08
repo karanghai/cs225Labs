@@ -1,0 +1,25 @@
+Monad Autograder
+Testing lab_inheritance at 2013-02-11 00:51:59
+
+"It may look like I'm doing nothing, but I'm actively waiting for my problems to go away." ~ Scott Adams
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_virtual_perim  . . . . . . . . [10 pts] - passed
+test_virtual_area . . . . . . . . . [10 pts] - passed
+test_destructor (valgrind)  . . . . [20 pts] - passed
+test_constructor  . . . . . . . . . [20 pts] - passed
+test_drawable_destructor (valgrind) [10 pts] - passed
+test_truck_draw . . . . . . . . . . [10 pts] - passed
+test_slicing  . . . . . . . . . . . [20 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

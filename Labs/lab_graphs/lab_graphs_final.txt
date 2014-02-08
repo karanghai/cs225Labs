@@ -1,0 +1,27 @@
+Monad Autograder
+Testing lab_graphs at 2013-05-03 02:42:39
+
+"Your job is not just what you're doing; it should be preparing you for what you want to do." ~ Michael Lopp
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+minWeight_OneEdge_ReturnValue . [10 pts] - passed
+minWeight_OneEdge_EdgeLabel . . [10 pts] - passed
+minWeight_MultiEdge_ReturnValue [10 pts] - passed
+minWeight_MultiEdge_EdgeLabels  [15 pts] - passed
+minPath_OneEdge_ReturnValue . . [10 pts] - passed
+minPath_OneEdge_EdgeLabel . . . [10 pts] - passed
+minPath_MultiEdge_ReturnValue . [10 pts] - passed
+minPath_MultiEdge_EdgeLabels  . [10 pts] - passed
+kruskal_all . . . . . . . . . . [15 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

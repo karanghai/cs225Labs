@@ -1,0 +1,23 @@
+Monad Autograder
+Testing lab_debug at 2013-01-28 00:41:55
+
+"If you think you can do it all, you're thinking too small." ~ Michael Lopp
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+no_segfaults . . . [20 pts] - passed
+produces_out_png . [10 pts] - passed
+similar_sketch . . [30 pts] - passed
+complete_in_01_bmp [20 pts] - passed
+complete_in_02_bmp [20 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

@@ -1,0 +1,23 @@
+Monad Autograder
+Testing lab_memory at 2013-02-04 21:10:46
+
+"Be careful about using the following code -- I've only proven that it works, I haven't tested it." ~ Donald Knuth
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_constructor (valgrind) [5 pts]  - passed
+test_allocate (valgrind)  . [5 pts]  - passed
+test_printrooms (valgrind)  [20 pts] - passed
+test_any_output . . . . . . [30 pts] - passed
+test_correct_output . . . . [40 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

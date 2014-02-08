@@ -1,0 +1,20 @@
+Finding words in data/aliceinwonderland.txt with frequency >= 200...
+a 684
+i 400
+that 291
+was 358
+her 248
+and 912
+as 272
+at 224
+alice 385
+in 428
+it 541
+of 625
+on 204
+with 227
+to 801
+you 429
+she 538
+said 462
+the 1804

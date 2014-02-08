@@ -1,0 +1,26 @@
+Monad Autograder
+Testing lab_avl at 2013-04-01 00:42:54
+
+"One day I will shoot you with this bullet. Can you still say that you love me?" ~ Re-l Mayer
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_oneElement  . . . . [10 pts] - passed
+test_simpleRotateLeft  . [10 pts] - passed
+test_simpleRotateRight . [10 pts] - passed
+test_threeLeftRotates  . [10 pts] - passed
+test_threeRightRotates . [10 pts] - passed
+test_manyRotations . . . [20 pts] - passed
+test_manyInserts . . . . [20 pts] - passed
+test_valgrind (valgrind) [10 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

@@ -1,0 +1,49 @@
+Monad Autograder
+Testing lab_quacks at 2013-03-04 06:39:43
+
+"Programs must be written for people to read, and only incidentally for machines to execute." ~ Abelson and Sussman
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+sumDigits_762  . . . [3 pts]  - passed
+sumDigits_0  . . . . [2 pts]  - passed
+sumDigits_2  . . . . [2 pts]  - passed
+sumDigits_1024 . . . [3 pts]  - passed
+triangle_0 . . . . . [2 pts]  - passed
+triangle_1 . . . . . [2 pts]  - passed
+triangle_5 . . . . . [3 pts]  - passed
+triangle_10  . . . . [3 pts]  - passed
+sum_136  . . . . . . [20 pts] - passed
+sum_floats . . . . . [20 pts] - passed
+scramble_17  . . . . [20 pts] - passed
+scramble_10  . . . . [20 pts] - passed
+verifySame_result  . [10 pts] - passed
+verifySame_no_modify [15 pts] - FAILED: unit_tests.cpp:249: Stack was modified
+
+
+Total score...
+================================================================
+TOTAL SCORE: 110
+
+
+
+Detailed test output...
+================================================================
+----------------------------------------------------------------
+verifySame_no_modify [15 points]
+Result: FAILED: unit_tests.cpp:249: Stack was modified
+Took 0ms (1000ms timeout)
+Output:
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+Total score...
+================================================================
+TOTAL SCORE: 110
+
